@@ -1,2 +1,2 @@
 # Twitter
-aplikacja twitter
+Twitter like application
